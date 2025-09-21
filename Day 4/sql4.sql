@@ -1,4 +1,4 @@
--- groop by and having clause --
+-- group by and having clause --
 --group by clause is used to group rows that have the same values into summary rows.
 --often used with aggregate functions (COUNT, MAX, MIN, SUM, AVG) to group the result-set by one or more columns.
 use sales_and_inventory;
